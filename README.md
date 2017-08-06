@@ -2,4 +2,4 @@
 
 A game by Kahu Newton.
 
-With some help from Tom Kluyskens :)
+...With some help from Tom Kluyskens :)
