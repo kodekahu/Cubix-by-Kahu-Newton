@@ -1,1 +1,3 @@
-# Cubix-by-Kahu-Newton
+# Cubix
+
+A game by Kahu Newton
